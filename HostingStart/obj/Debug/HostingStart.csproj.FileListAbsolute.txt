@@ -1,0 +1,5 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\HostingStart\HostingStart\bin\HostingStart.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\HostingStart\HostingStart\bin\HostingStart.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\HostingStart\HostingStart\obj\Debug\HostingStart.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\HostingStart\HostingStart\obj\Debug\HostingStart.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\HostingStart\HostingStart\obj\Debug\HostingStart.pdb
